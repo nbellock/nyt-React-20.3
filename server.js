@@ -6,7 +6,7 @@ var logger = require('morgan'); // for debugging
 
 
 
-// Initialize Express for debugging & body parsing
+// initialize Express for debugging & body parsing
 var app = express();
 app.use(logger('dev'));
 app.use(bodyParser.urlencoded({

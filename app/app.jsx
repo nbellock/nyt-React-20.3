@@ -2,9 +2,7 @@
 // @github: tomtom28
 // @comment: HW for Week 19 - NY Time Article Search with ReactJS!
 
-
-
-// Include the Main React Dependencies
+// include the Main React Dependencies
 var React = require("react");
 var ReactDOM = require("react-dom");
 

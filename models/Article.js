@@ -1,4 +1,4 @@
-// Require Mongoose
+// RequIre Mongoose
 var mongoose = require('mongoose');
 
 // Create a Schema Class
@@ -18,7 +18,7 @@ var ArticleSchema = new Schema({
     type: String,
     required: true
   },
-  
+
   // Link to Article
   url: {
     type: String,

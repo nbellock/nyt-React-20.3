@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomtom28/nyt-react.git"
+    "url": "git+https://github.com/nbellock/nyt-react-20.3.git"
   },
-  "author": "tomtom28",
+  "author": "nbellock",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomtom28/nyt-react/issues"
+    "url": "https://github.com/nbellock/nyt-react/issues"
   },
-  "homepage": "https://github.com/tomtom28/nyt-react#readme",
+  "homepage": "https://github.com/nbellock/nyt-react#readme",
   "dependencies": {
     "axios": "^0.15.3",
     "body-parser": "^1.15.2",
